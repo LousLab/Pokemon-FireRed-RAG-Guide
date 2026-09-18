@@ -7,7 +7,7 @@ __pycache__/
 # Secrets
 .env
 
-# OS / editor cruft
+# OS/editor cruft
 .DS_Store
 .vscode/
 .idea/
