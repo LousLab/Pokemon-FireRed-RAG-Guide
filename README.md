@@ -49,6 +49,7 @@ pip install -r requirements.txt
 export GEMINI_API_KEY="your-key-here"   # free key: aistudio.google.com/apikey
 ```
 
+
 ## Usage
 
 ```bash
