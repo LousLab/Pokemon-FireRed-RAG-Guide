@@ -20,7 +20,3 @@ Pokémon FireRed mechanics (types, gyms, battles) are simple and
 factual — easy to check by eye whether retrieval pulled the *right*
 chunk, without needing domain expertise.
 
-## Goal
-- **Our goal:** learn how a RAG pipeline works end to end.
-- **The model's goal:** answer Pokémon FireRed questions using the
-  knowledge base, not guesses.
