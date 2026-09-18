@@ -1,0 +1,13 @@
+# Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
